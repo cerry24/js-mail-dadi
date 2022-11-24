@@ -1,7 +1,18 @@
-#btn-gioca {
+.btn {
     text-decoration: none;
     color: white;
-    background-color: dodgerblue;
     border-radius: 15px;
     padding: .6rem 1rem;
+}
+
+#btn-play {
+    background-color: dodgerblue;
+}
+
+#btn-verify {
+    background-color: crimson;
+}
+
+#mail-verifier {
+    padding-top: 3rem;
 }
